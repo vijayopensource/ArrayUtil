@@ -3,7 +3,7 @@ Javascript Array Util
 
 Make sure node and npm are installed.
 
-Open comman prompt from folder location
+Open command prompt from folder location
 
 type run below commands
 
